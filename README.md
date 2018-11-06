@@ -2,7 +2,7 @@
 
 This repository contains kubectl plugin to simplify interactive exec command.
 
-Lists Kubernetes object to choose from to create kubectl exec -ti command.
+Lists Kubernetes objects to choose from to create kubectl exec -ti command.
 
 ![kubectl-iexec demo GIF](img/kubectl-iexec-demo.gif)
 
@@ -21,5 +21,5 @@ git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 ~/.fzf/install
 ```
 
-- Install kubectl-iexec
+- Install kubectl-iexec\
 Download the [`kubectl-iexec` file](https://raw.githubusercontent.com/duyguserbest/kubectl-iexec/master/kubectl-iexec) file and save as an executable to somewhere on $PATH 
