@@ -14,7 +14,7 @@ kubectl iexec
 
 ## Installation
 
-- Install fzf
+- [`Install fzf`](https://github.com/junegunn/fzf#installation)
 
 ```sh
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
@@ -22,4 +22,4 @@ git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 ```
 
 - Install kubectl-iexec\
-Download the [`kubectl-iexec` file](https://raw.githubusercontent.com/duyguserbest/kubectl-iexec/master/kubectl-iexec) file and save as an executable to somewhere on $PATH 
+Download the [`kubectl-iexec`](https://raw.githubusercontent.com/duyguserbest/kubectl-iexec/master/kubectl-iexec) file and save as an executable to somewhere on $PATH 
